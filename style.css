@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#navbar{
+    height: 60px;
+    background-color: #15e7e7;
+    color:black;
+    
+
+}
+body {
+    background-image: url("pic.jpg");
+    background-size:contain;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #0a0601;
+    font-size: 30px;
+}
+a{
+    margin-right: 170px;
+    text-decoration:none;
+    color:#0a0601
+}
+
+#Box1 {
+    height:100px;
+    width:100px;
+    border: 2px solid black;
+    display: inline-block;
+    background-image: url("pic.jpg");
+    background-size:cover;
+}
+
+#content{
+    height:600px;
+}
+footer{
+    background-color:#15e7e7;
+    color:black;
+    text-align: center;
+}
